@@ -1,1 +1,1 @@
-# Konduto-Case
+<p align="center"><img src="https://www.konduto.com/wp-content/uploads/2020/03/konduto-logotipo.png"></p>
